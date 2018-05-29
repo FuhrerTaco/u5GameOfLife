@@ -1,0 +1,15 @@
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\bin\Debug\u5GameOfLife.exe.config
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\bin\Debug\u5GameOfLife.exe
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\bin\Debug\u5GameOfLife.pdb
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife.csprojResolveAssemblyReference.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\MainWindow.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\App.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife_MarkupCompile.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife_MarkupCompile.lref
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\MainWindow.baml
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife.g.resources
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife.Properties.Resources.resources
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife.csproj.GenerateResource.Cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife.csproj.CoreCompileInputs.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife.exe
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u5GameOfLife\u5GameOfLife\obj\Debug\u5GameOfLife.pdb
